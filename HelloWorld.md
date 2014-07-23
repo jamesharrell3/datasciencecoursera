@@ -2,4 +2,6 @@ datasciencecoursera
 ===================
 
 Coursera Course Project 1
-git ini
+## This is a markdown document
+$ git push Helloworld
+
